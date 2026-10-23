@@ -5,8 +5,7 @@
 * **Mã số sinh viên:** 24810320183
 * **Lớp học phần:** Lập trình .NET - Mã Lớp: D19QTANM1
 
-* **Link Repository:** https://github.com/nguyenvana/LTNET-
-TEST02_22110001_NguyenVanA
+* **Link Repository:** https://github.com/pvu970526-max/baikiemtraso2-
 
 ---
 
@@ -16,10 +15,15 @@ TEST02_22110001_NguyenVanA
 | :---: | :--- | :---: | :---: |
 
 | **Bài 1** | QUẢN LÝ ĐẶT PHÒNG KHÁCH SẠN | Hoàn thành | 100% |
+
 | **Bài 2** | QUẢN LÝ HỒ SƠ NHÂN SỰ & THÔNG TIN LƯƠNG | Hoàn thành | 100% |
-| **Bài 3** | HỆ THỐNG MDI QUẢN LÝ TRƯỜNG HỌC & ĐÀO TẠO | Hoàn thành | 90% |
-| **Bài 4** | BẢNG ĐIỀU KHIỂN TỔNG HỢP BÁO CÁO KHO HÀNG | Hoàn thành | 90% |
-| **Bài 5** | MÔ PHỎNG GIÁM SÁT HỆ THỐNG CẢNH BÁO IOT REAL-TIME | Hoàn thành | 90% |
+
+| **Bài 3** | HỆ THỐNG MDI QUẢN LÝ TRƯỜNG HỌC & ĐÀO TẠO | Hoàn thành | 100% |
+
+| **Bài 4** | BẢNG ĐIỀU KHIỂN TỔNG HỢP BÁO CÁO KHO HÀNG | Hoàn thành | 100% |
+
+| **Bài 5** | MÔ PHỎNG GIÁM SÁT HỆ THỐNG CẢNH BÁO IOT REAL-TIME | Hoàn thành | 100% |
+
 ---
 
 ## III. MINH HỌA GIAO DIỆN & KỸ THUẬT NỔI BẬT
